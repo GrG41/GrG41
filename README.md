@@ -6,7 +6,11 @@
 维护日志、事故复盘。
 
 - 门面与报价单：<https://grg41.github.io/>（[English](https://grg41.github.io/en/) · [日本語](https://grg41.github.io/ja/)）
-- 公开的工作证据：署名与提交在 [Kihara777/NixKits](https://github.com/Kihara777/NixKits)
+- 公开的工作证据：
+  - 署名与提交在 [Kihara777/NixKits](https://github.com/Kihara777/NixKits)
+  - [wes-hydraulic-calc](https://github.com/GrG41/wes-hydraulic-calc) —— WES 型实用堰泄流能力与
+    水面线计算程序（按 SL 253-2018，TypeScript）。[演示站](https://grg41.github.io/wes-hydraulic-calc/)
+    / [验收摘要](https://grg41.github.io/wes-hydraulic-calc/verification.html)（写清验过什么、哪些**没**验）
 
 **验收不看我说话**：每份交付都带证据包，里面有「坏样本能被判失败」的反证；
 验收看你的 CI 和你的合并。
